@@ -4,7 +4,7 @@ Created on Fri Apr 17 02:16:01 2020
 
 @author: dhruv
 """
-import pylab
+##import pylab
 import random
 import copy
 import collections
@@ -1664,8 +1664,7 @@ def MultiplePlayers(numHands,numTrials):
 
 
 
-
- PokerTrials(10, 100,True)
+PokerTrials(10, 100,True)
 
 # PlayerSimulTrial(1000, 100, 2, True)
 # MultiplePlayers(1000, 100)
